@@ -18,29 +18,32 @@ Cite: If you find this code useful in your research then please cite
 
 @articale{huang2021domain,
 
-  author={Huang, Fuxiang and Zhang, Lei and Gao, Xinbo},  
+  author={Huang, Fuxiang and Zhang, Lei and Gao, Xinbo},   
   
   journal={IEEE Transactions on Neural Networks and Learning Systems},  
   
-  title={Domain Adaptation Preconceived Hashing for Unconstrained Visual Retrieval},  
+  title={Domain Adaptation Preconceived Hashing for Unconstrained Visual Retrieval}, 
   
-  year={2021},
+  year={2022},
   
-  pages={1-15},  
+  volume={33},
   
-  doi={10.1109/TNNLS.2021.3071127}
+  number={10},
   
+  pages={5641-5655},
+  
+  doi={10.1109/TNNLS.2021.3071127}  
 }
 
 @inproceedings{huang2020PWCF,
 
   title={Probability Weighted Compact Feature for Domain Adaptive Retrieval},
   
-  author={Huang, Fuxiang and Zhang, Lei and Yang, Yang and Zhou, Xichuan},
+  author={Huang, Fuxiang and Zhang, Lei and Yang, Yang and Zhou, Xichuan},  
   
-  booktitle={CVPR},
+  booktitle={CVPR},  
   
-  pages={9579-9588},
+  pages={9579-9588},  
   
   year={2020}
 }
