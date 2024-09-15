@@ -18,7 +18,7 @@ more datasets: at https://pan.baidu.com/s/1EVlYCz51AyDnh5y7PJ5W_Q?pwd=qyrv
 
 
 Cite: If you find this code useful in your research then please cite
-
+```bibtex
 @articale{huang2021domain,
   author={Huang, Fuxiang and Zhang, Lei and Gao, Xinbo},    
   journal={IEEE Transactions on Neural Networks and Learning Systems},    
@@ -35,3 +35,4 @@ Cite: If you find this code useful in your research then please cite
   pages={9579-9588},    
   year={2020}
 }
+```bibtex
