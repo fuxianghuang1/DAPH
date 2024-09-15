@@ -1,5 +1,4 @@
-# DAPH
-Paper : Domain Adaptation Preconceived Hashing for Unconstrained Visual Retrieval
+# DAPH: Domain Adaptation Preconceived Hashing for Unconstrained Visual Retrieval
 
 Author : Fuxiang Huang, Lei Zhang, and Xinbo Gao
 
